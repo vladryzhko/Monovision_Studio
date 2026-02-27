@@ -83,7 +83,7 @@ html {
 }
 
 .promo__title {
-	color: red;
+	color: var(--light-color, #F5F5F7);
 	font-weight: 400;
 	font-size: 60px;
 	line-height: normal;
